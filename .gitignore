@@ -6,4 +6,4 @@ include
 .DS_Store
 *.pyc
 project1/settings.py
-
+.idea/
